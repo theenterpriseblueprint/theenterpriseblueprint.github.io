@@ -1,30 +1,18 @@
 ---
 layout: page
-title: About
+title: About the Interviewer
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Thanks for visiting. Here's a little more about me.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I’m Archit Bhise and I’m interested in enterprise software and business problems that drive large impact within organizations. I'm currently a first-year MBA student at the [Harvard Business School](http://hbs.edu).
 
-There are currently two themes built on Poole:
+I’m interested in first principle approaches to solving problems and am a [big fan of people who disagree with me](http://blog.codinghorror.com/strong-opinions-weakly-held/).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+In a previous life, I was a venture capitalist focused on investing in startups in Silicon Valley at [Redpoint Ventures](http://redpoint.com) and sold software to Fortune 500 strategic accounts at [Mulesoft](http://mulesoft.com). I also founded an enterprise software startup called [Wellframe](http://wellframe.com) and served as the Chief Product Officer. We built software that uses artificial intelligence to help high-risk patients recover from complex diseases - like heart attacks, organ transplants, COPD - and helped insurers improve patient care.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Quick academic background: I graduated from [MIT](https://www.eecs.mit.edu/) and I've previously worked with [Microsoft Research](http://research.microsoft.com/en-us/groups/tem/).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I’m always up for a coffee to find out more about interesting problems facing the enterprise, so feel free to get in touch!
