@@ -10,7 +10,7 @@ title:            The Enterprise Blueprint
 tagline:          'An interview series on toughest problems facing the enterprise'
 description:      'An interview series on the toughest technology problems facing the enterprise and the people who work tirelessly to solve them'
 url:              http://theenterpriseblueprint.github.io/
-baseurl:          "/"
+baseurl:          ""
 
 author:
   name:           'Mark Otto'
