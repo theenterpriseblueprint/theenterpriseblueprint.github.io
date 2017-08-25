@@ -9,8 +9,8 @@ permalink:        pretty
 title:            The Enterprise Blueprint
 tagline:          'An interview series on toughest problems facing the enterprise'
 description:      'An interview series on the toughest technology problems facing the enterprise and the people who work tirelessly to solve them'
-url:              http://archbhise.github.io/enterpriseblueprint/
-baseurl:          "/enterpriseblueprint/"
+url:              http://theenterpriseblueprint.github.io/
+baseurl:          "/"
 
 author:
   name:           'Mark Otto'
@@ -22,6 +22,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/archbhise/enterpriseblueprint
+  repo:           https://github.com/theenterpriseblueprint/theenterpriseblueprint.github.io
 
 plugins: [jekyll-paginate]
